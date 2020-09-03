@@ -6,7 +6,3 @@
 * #####  Squares of a Sorted Array Amazon Interview Question
      * [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/SquareOfSorted.java)
-
-* #####  Course Schedule Amazon Interview Question
-     * [Course Schedule](https://leetcode.com/problems/course-schedule/)
-     * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/CourseSchedule.java)
