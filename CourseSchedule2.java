@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class CoueawSchedule2 {
+public class CourseSchedule2 {
 
     private static List<Integer> adj[];
     private static boolean[] visited;
