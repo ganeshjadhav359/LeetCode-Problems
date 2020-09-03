@@ -10,3 +10,9 @@
 * #####  Course Schedule Amazon Interview Question
      * [Course Schedule](https://leetcode.com/problems/course-schedule/)
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/CourseSchedule.java)
+
+* #####  Course Schedule II Amazon Interview Question
+     * [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+     * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/CourseSchedule.java)
+
+  
