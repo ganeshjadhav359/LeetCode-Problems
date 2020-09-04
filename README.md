@@ -19,4 +19,7 @@
      * [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/MergeKsortedLists.java)
 
+* #####  Single Element in a Sorted Array Amazon Interview Question
+     * [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+     * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/SingleElementInSortedArray.java)
   
