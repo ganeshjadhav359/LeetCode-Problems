@@ -56,6 +56,7 @@ public class MergeKsortedLists {
 
     }
     public static void print(ListNode head){
+        System.out.println("sorted nodes");
         while(head!=null){
             System.out.print(head.val+"->");
             head = head.next;
