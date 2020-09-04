@@ -15,4 +15,8 @@
      * [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/CourseSchedule2.java)
 
+* #####  Merge k Sorted Lists Amazon Interview Question
+     * [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+     * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/MergeKsortedLists.java)
+
   
