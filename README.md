@@ -28,6 +28,6 @@
      * [Solution DFS](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/EvaluateDivisionDfs.java)
  
 * #####  Product of Array Except Self O(1) Space Complexity Amazon Interview Question
-     * [Evaluate Division](https://leetcode.com/problems/product-of-array-except-self/)
-     * [Solution DFS](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/ProductArrayExceptSelf.java)
+     * [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+     * [Solution ](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/ProductArrayExceptSelf.java)
         
