@@ -27,7 +27,7 @@
      * [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
      * [Solution DFS](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/EvaluateDivisionDfs.java)
  
-* #####  Product of Array Except Self O(1) Space Complexity Amazon Interview Question
-     * [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-     * [Solution ](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/ProductArrayExceptSelf.java)
+* #####  Two Sum Easy Amazon Interview Question
+     * [Two Sum Easy](https://leetcode.com/problems/two-sum/)
+     * [Solution using only 1 for loop](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/Sum2.java)
         
