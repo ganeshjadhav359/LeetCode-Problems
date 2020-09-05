@@ -30,4 +30,8 @@
 * #####  Two Sum Easy Amazon Interview Question
      * [Two Sum Easy](https://leetcode.com/problems/two-sum/)
      * [Solution using only 1 for loop](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/Sum2.java)
-        
+
+* #####  3Sum Amazon Interview Question
+     * [3Sum](https://leetcode.com/problems/3sum/)
+     * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/ThreeSum.java)
+                
