@@ -38,4 +38,8 @@
 * #####  Rotate Image Amazon Interview Question
      * [Rotate Image](https://leetcode.com/problems/rotate-image/)
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/RotateImage.java)
-                                
+
+* #####  Binary Tree Zigzag Level Order Traversal Amazon Interview Question
+     * [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+     * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/ZigzagLevelOrderTraversal.java)
+                                                                
