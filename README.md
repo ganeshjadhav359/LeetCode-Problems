@@ -35,3 +35,7 @@
      * [3Sum](https://leetcode.com/problems/3sum/)
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/ThreeSum.java)
                 
+* #####  Rotate Image Amazon Interview Question
+     * [Rotate Image](https://leetcode.com/problems/rotate-image/)
+     * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/RotateImage.java)
+                                
