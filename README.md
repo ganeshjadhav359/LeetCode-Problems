@@ -42,4 +42,8 @@
 * #####  Binary Tree Zigzag Level Order Traversal Amazon Interview Question
      * [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/ZigzagLevelOrderTraversal.java)
+
+* #####   N-ary Tree Level Order Traversal
+     * [ N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
+     * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/NaryTreeLevelOrderTraversal.java)
                                                                 
