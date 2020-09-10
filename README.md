@@ -54,4 +54,8 @@
 * #####  Sum Root to Leaf Numbers Tree Amazon Interview Question
      * [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/SumRootToLeafNumbers.java)
-                                                                                     
+
+* #####  Count of days remaining for the next day with higher temperature Amazon Interview Question
+     * [Count of days remaining for the next day with higher temperature](https://www.geeksforgeeks.org/count-of-days-remaining-for-the-next-day-with-higher-temperature/)
+     * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/HigherTemperature.java)
+                                                                                                                      
