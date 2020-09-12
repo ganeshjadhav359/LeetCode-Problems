@@ -58,4 +58,8 @@
 * #####  Count of days remaining for the next day with higher temperature Amazon Interview Question
      * [Count of days remaining for the next day with higher temperature](https://www.geeksforgeeks.org/count-of-days-remaining-for-the-next-day-with-higher-temperature/)
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/HigherTemperature.java)
-                                                                                                                      
+
+* #####  Farthest smaller number on the right side Amazon Interview Question
+     * [Farthest smaller number on the right side](https://www.geeksforgeeks.org/find-the-farthest-smaller-number-in-the-right-side/)
+     * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/FarthestSmallerNumber.java)
+                                                                                                                                           
