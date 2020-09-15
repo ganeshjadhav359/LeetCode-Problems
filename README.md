@@ -62,4 +62,8 @@
 * #####  Farthest smaller number on the right side Amazon Interview Question
      * [Farthest smaller number on the right side](https://www.geeksforgeeks.org/find-the-farthest-smaller-number-in-the-right-side/)
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/FarthestSmallerNumber.java)
-                                                                                                                                           
+
+* #####  Reorganize String Amazon Interview Question
+     * [Reorganize String](https://leetcode.com/problems/reorganize-string/)
+     * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/ReorganizeString.java)
+                                                                                                                                             
