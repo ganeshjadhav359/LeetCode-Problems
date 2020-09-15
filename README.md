@@ -66,4 +66,8 @@
 * #####  Reorganize String Amazon Interview Question
      * [Reorganize String](https://leetcode.com/problems/reorganize-string/)
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/ReorganizeString.java)
+
+* #####  Trapping Rain Water Amazon Interview Question
+     * [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+     * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/TrappingRainWater.java)
                                                                                                                                              
