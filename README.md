@@ -70,4 +70,8 @@
 * #####  Trapping Rain Water Amazon Interview Question
      * [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/TrappingRainWater.java)
+     
+* #####  Maximum Product Subarray Amazon Interview Question
+     * [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+     * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/MaximumProductSubarray.java)
                                                                                                                                              
