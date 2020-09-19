@@ -74,4 +74,12 @@
 * #####  Maximum Product Subarray Amazon Interview Question
      * [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/MaximumProductSubarray.java)
-                                                                                                                                             
+
+* #####  Sort an array of 0s, 1s and 2s Amazon Interview Question
+     * [Sort an array of 0s, 1s and 2s](https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/)
+     * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/SortArrayOf0s1s2s.java)
+
+* #####  Segregate 0s and 1s in an array Amazon Interview Question
+     * [Segregate 0s and 1s in an array](https://www.geeksforgeeks.org/segregate-0s-and-1s-in-an-array-by-traversing-array-once/)
+     * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/SortArrayOf0s1s.java)
+                                                                                                                                                          
