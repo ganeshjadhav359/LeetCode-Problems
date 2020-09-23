@@ -87,4 +87,8 @@
      * [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/ValidParentheses.java)
 
+* #####  Implement strStr() Amazon Interview Question
+     * [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+     * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/ImplementStrStr.java)
+
                                                                                                                                                           
