@@ -92,7 +92,7 @@
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/ImplementStrStr.java)
 
 * #####  Word Search Amazon Interview Question
-     * [Word SearchWord Search](https://leetcode.com/problems/word-search/)
+     * [Word Search](https://leetcode.com/problems/word-search/)
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/WordSearch.java)
 
 
