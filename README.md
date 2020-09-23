@@ -100,5 +100,9 @@
      * [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/SearchRotatedSortedArray.java)
 
+* #####  Unique Binary Search Trees Array Interview Question
+     * [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
+     * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/UniqueBinarySearchTrees.java)
+
 
                                                                                                                                                           
