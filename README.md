@@ -104,5 +104,9 @@
      * [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/UniqueBinarySearchTrees.java)
 
+* #####  Unique Binary Search Trees II Array Interview Question
+     * [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)
+     * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/UniqueBinarySearchTreesII.java)
+
 
                                                                                                                                                           
