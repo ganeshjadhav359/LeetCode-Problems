@@ -96,4 +96,9 @@
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/WordSearch.java)
 
 
+* #####  Search in Rotated Sorted Array Interview Question
+     * [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+     * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/SearchRotatedSortedArray.java)
+
+
                                                                                                                                                           
