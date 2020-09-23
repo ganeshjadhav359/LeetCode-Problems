@@ -96,15 +96,15 @@
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/WordSearch.java)
 
 
-* #####  Search in Rotated Sorted Array Interview Question
+* #####  Search in Rotated Sorted Array Amazon Interview Question
      * [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/SearchRotatedSortedArray.java)
 
-* #####  Unique Binary Search Trees Array Interview Question
+* #####  Unique Binary Search Trees Amazon Interview Question
      * [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/UniqueBinarySearchTrees.java)
 
-* #####  Unique Binary Search Trees II Array Interview Question
+* #####  Unique Binary Search Trees II Amazon Interview Question
      * [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/UniqueBinarySearchTreesII.java)
 
