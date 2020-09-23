@@ -83,4 +83,8 @@
      * [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
      * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/LcaBinaryTree.java)
 
+* #####  Valid Parentheses Amazon Interview Question
+     * [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+     * [Solution](https://github.com/ganeshjadhav359/LeetCode-Problems/blob/master/ValidParentheses.java)
+
                                                                                                                                                           
